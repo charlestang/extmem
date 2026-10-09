@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+# Raw private backups never belong in this project
+*.sql
+*.sql.gz
+private-backup-check/
+__pycache__/
+*.pyc
+
+# Local migration evidence and server diagnostics are never published.
+migration/
+.env
+.env.*
+_config.local.yml

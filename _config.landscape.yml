@@ -1,0 +1,5 @@
+# No RSS feed generator or comment service is configured in this first stage.
+rss: false
+disqus_shortname: null
+valine:
+  enable: false

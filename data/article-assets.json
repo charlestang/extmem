@@ -1442,5 +1442,25 @@
     "posts": [
       358
     ]
+  },
+  {
+    "path": "images/external/marketing-triangle.svg",
+    "mime": "image/svg+xml",
+    "bytes": 1609,
+    "sha256": "71272c908e807bb29413984a240eb173bb076344f09cd4d29b85bdb49d6ac946",
+    "posts": [
+      412
+    ],
+    "provenance": "Original SVG illustrating the author's stated marketing trade-off view."
+  },
+  {
+    "path": "images/external/westlake-swim-route.svg",
+    "mime": "image/svg+xml",
+    "bytes": 3957,
+    "sha256": "e7a45f08f30a2b2223416e6f4ce0b786ef85c06bc920445c4e2280945cd063f2",
+    "posts": [
+      231
+    ],
+    "provenance": "Original historical schematic based on author-confirmed north-to-south bridge count; geography generalized, not a GPS route."
   }
 ]

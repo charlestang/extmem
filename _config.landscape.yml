@@ -1,0 +1,19 @@
+# No RSS feed generator or comment service is configured in this first stage.
+rss: false
+disqus_shortname: null
+valine:
+  enable: false
+
+# Explicit navigation and desktop category sidebar.
+menu:
+  Home: /
+  分类: /categories/
+  Archives: /archives/
+sidebar: right
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - archive
+  - recent_posts
+show_count: true

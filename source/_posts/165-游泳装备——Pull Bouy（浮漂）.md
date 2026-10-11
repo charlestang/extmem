@@ -10,7 +10,7 @@ tags: []
 comments: false
 ---
 
-<table style="width:auto;"><tbody><tr><td><a href="http://picasaweb.google.com/lh/photo/443gxxQdCu4hAtWwy8zyNg"><img src="/images/external/833378843dcfcf855745.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
+<table style="width:auto;"><tbody><tr><td><a href="/images/external/833378843dcfcf855745.jpg"><img src="/images/external/833378843dcfcf855745.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
 
 这个东西我第一次也是在泳池里看到别人用才知道。当时为了得知这种东西的价格，想要去taobao搜索一下的，结果发现我竟然不知道这个玩意叫什么名字，最后找死也没有找到，看来，有的时候，你想网上买个东西，你得准确地知道这个东西叫什么。
 
@@ -18,9 +18,9 @@ comments: false
 
 这个东西的用法很简单，我想光看形状大家也可以猜到了，夹在大腿根部为身体提供浮力。其主要作用是用来训练上肢划水的力量。下面上两幅图示。
 
-<table style="width:auto;"><tbody><tr><td><a href="http://picasaweb.google.com/lh/photo/iW7t9wvxa_NJv1QzG9FLbQ"><img src="/images/external/2a35680d0d6d6be2420f.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
+<table style="width:auto;"><tbody><tr><td><a href="/images/external/2a35680d0d6d6be2420f.jpg"><img src="/images/external/2a35680d0d6d6be2420f.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
 
-<table style="width:auto;"><tbody><tr><td><a href="http://picasaweb.google.com/lh/photo/Gfw3x-8VOudVVsyk3yGHLA"><img src="/images/external/09cd55e2f4de41531762.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
+<table style="width:auto;"><tbody><tr><td><a href="/images/external/09cd55e2f4de41531762.jpg"><img src="/images/external/09cd55e2f4de41531762.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog02">blog图片</a></td></tr></tbody></table>
 
 个人使用心得：
 

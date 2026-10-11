@@ -24,7 +24,7 @@ comments: false
 
 比如对于love这个单词，人们是怎么认为的呢？
 
-[![](/images/external/c1e0cf4dcc77a28d1ed0.png)](http://picasaweb.google.com/TangChao.ZJU/Blog02/photo#5239957007991456978)
+[![](/images/external/c1e0cf4dcc77a28d1ed0.png)](/images/external/c1e0cf4dcc77a28d1ed0.png)
 
 其中一个颜色条的长度在整条中占到的比例，代表了这种颜色接受投票的比例。
 

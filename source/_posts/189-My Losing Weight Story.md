@@ -10,7 +10,7 @@ tags: ["减肥", "复盘"]
 comments: false
 ---
 
-<table style="width:auto;margin:10px auto;"><tbody><tr><td><a href="http://picasaweb.google.com/lh/photo/FVogHzNeSmiLOjhzSDQzRA"><img src="/images/external/6aa9a9d90f12d425c4c7.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog">blog相册</a></td></tr></tbody></table>
+<table style="width:auto;margin:10px auto;"><tbody><tr><td><a href="/images/external/6aa9a9d90f12d425c4c7.jpg"><img src="/images/external/6aa9a9d90f12d425c4c7.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/TangChao.ZJU/Blog">blog相册</a></td></tr></tbody></table>
 
 A few months ago, my weight was 72.4kg. I decided to lose weight and have tried a lot of ways but failed.
 

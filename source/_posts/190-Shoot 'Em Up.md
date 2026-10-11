@@ -6,10 +6,10 @@ permalink: archives/190.html
 wp_id: 190
 wp_slug: "shoot-em-up"
 categories: [["随便扯扯"]]
-tags: []
+tags: ["电影"]
 comments: false
 ---
 
-[![](/images/external/c77214b06a2233d9da18.jpg)](http://picasaweb.google.com/lh/photo/fPSmPJdWhKVsrWSX6qGgvQ)
+[![](/images/external/c77214b06a2233d9da18.jpg)](/images/external/c77214b06a2233d9da18.jpg)
 
 This is a movie that full of carnography. I think the director of this movie is a genius, in this movie, everything can be a weapon, even a carrot. The leading actor loves carrot very much, and he always brings some carrot with him, when he runs out of bullets he use carrot to kill the enemy.

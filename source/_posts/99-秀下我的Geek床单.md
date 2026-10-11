@@ -10,6 +10,6 @@ tags: []
 comments: false
 ---
 
-<table style="width:auto;"><tbody><tr><td><a href="http://picasaweb.google.com/lh/photo/6-etjFXzpg0d3Oq8mz3waw"><img src="/images/external/6a86a0f686ecaedcf845.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">发件人 <a href="http://picasaweb.google.com/TangChao.ZJU/Blog">blog相册</a></td></tr></tbody></table>
+<table style="width:auto;"><tbody><tr><td><a href="/images/external/6a86a0f686ecaedcf845.jpg"><img src="/images/external/6a86a0f686ecaedcf845.jpg"></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">发件人 <a href="http://picasaweb.google.com/TangChao.ZJU/Blog">blog相册</a></td></tr></tbody></table>
 
 这条床单是我妈给我买的，我用了好久了，哈哈，很舒服，很喜欢这种布料的床单。

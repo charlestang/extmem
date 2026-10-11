@@ -12,6 +12,8 @@ comments: false
 
 微软的系统，给人的感觉，总是在跳级。最早先Windows 3.1获得了巨大的成功，然后3.2水波平平，95波澜不惊，Windows98是一个引起轰动的版本，一时间，所有的电脑都用上了98。接着NT来了，然而，大家总觉得这个NT似和自己不沾边，殊不知，NT才是Windows内核的方向。于是乎，NT在稳步发展的时候，给98打了最后一个补丁，Windows Me。当然，这个看上去像是98增强版的东西当然没有给大众留下什么好印象，其尴尬地位就如同现今的Vista。
 
+<!-- more -->
+
 比对着上面的发展历程，现在，<strong><a href="http://www.microsoft.com/windows/windows-7/" target="_blank" rel="noopener">Windows 7</a></strong>的出现，正是又一款符合微软规律的产品，再从现在，众多学生对Windows 7的追捧来看，Windows 7确实做到了将Vista引入的优点发扬光大，而摒弃的Vista的缺点。从这个角度看，Windows Me和Windows Vista都是成功的，有先驱意义的操作系统，但是却是真正意义上的失败的商业产品，它们都为自己的后续主打产品做了炮灰。
 
 Vista的失败，是连微软也承认的事情，各方专业业余的评论，都认为Vista的销售、推广是个失败，微软虽然嘴上不承认，但是看看微软的政策吧，“2009年6月26日至2010年1月31日购买正版Vista的用户<strong><a href="http://it.sohu.com/20090415/n263401048.shtml" target="_blank" rel="noopener">可以免费升级到Windows 7</a></strong>”，是不是相当明显了？

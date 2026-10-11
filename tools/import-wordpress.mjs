@@ -66,7 +66,7 @@ function rewriteLink(value,p) {
   return u.pathname+u.search+u.hash;
 }
 for(const p of data.posts) {
-  let html=autop(p.html).replace(/<!--\s*more(?:.*?)?-->/gi,'<wp-more></wp-more>');
+  let html=autop(p.html).replace(/<!--\s*more(?:.*?)?-->/gi,'<wp-more>more</wp-more>');
   const {document}=parseHTML(`<html><body>${html}</body></html>`);
   for (const node of document.querySelectorAll('img')) {
     for(const attribute of ['src','data-src','data-original','data-lazy-src']) {

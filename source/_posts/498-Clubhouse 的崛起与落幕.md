@@ -8,6 +8,8 @@ wp_slug: "clubhouse-%e7%9a%84%e5%b4%9b%e8%b5%b7%e4%b8%8e%e8%90%bd%e5%b9%95"
 categories: [["趣闻逸事"]]
 tags: []
 comments: false
+photos:
+  - "/images/uploads/2021/02/Clubhouse-app-1240x698-1.jpg"
 ---
 
 在互联网行业打工多年，好久没看见这么一番热闹的景象了。推特上，TimeLine 上充斥了询问，有 CH 的邀请码么？微信朋友圈，也是四处一码难求。Clubhouse，被网友们缩写成 CH，硅谷创业公司发布的一款全新的社交软件。

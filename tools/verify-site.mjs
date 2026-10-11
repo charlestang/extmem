@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 import {parseHTML} from 'linkedom';
 
@@ -37,5 +38,12 @@ for(const name of sourceNames){const m=name.match(/^(\d+)-/);if(m&&!allowedIDs.h
 if(images!==meta.image_elements)failures.push(`Image element count changed: ${images}`);
 if(localImages!==meta.local_image_elements)failures.push(`Local image count changed: ${localImages}`);
 if(!fs.existsSync(path.join(root,'public/index.html')))failures.push('Missing homepage');
-console.log(JSON.stringify({published_legacy_posts:meta.posts.length,image_elements:images,local_image_elements:localImages,failures},null,2));
+const assetManifest=path.join(root,'data/article-assets.json');
+const assets=fs.existsSync(assetManifest)?JSON.parse(fs.readFileSync(assetManifest,'utf8')):[];
+for(const asset of assets){
+  const file=path.join(root,'public',asset.path);
+  if(!fs.existsSync(file))failures.push(`Missing article asset ${asset.path}`);
+  else if(createHash('sha256').update(fs.readFileSync(file)).digest('hex')!==asset.sha256)failures.push(`Article asset hash mismatch ${asset.path}`);
+}
+console.log(JSON.stringify({published_legacy_posts:meta.posts.length,image_elements:images,local_image_elements:localImages,verified_article_assets:assets.length,failures},null,2));
 if(failures.length)process.exitCode=1;

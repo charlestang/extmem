@@ -40,8 +40,8 @@ importers:
         version: 1.1.0
     devDependencies:
       '@wordpress/autop':
-        specifier: 4.57.0
-        version: 4.57.0
+        specifier: 5.0.0
+        version: 5.0.0
       linkedom:
         specifier: 0.18.13
         version: 0.18.13
@@ -91,9 +91,9 @@ packages:
   '@types/trusted-types@2.0.7':
     resolution: {integrity: sha512-ScaPdn1dQczgbl0QFTeTOmVHFULt394XJgOQNoyVhZ6r2vLnMLJfBPd53SB52T/3G36VI1/g2MZaX0cwDuXsfw==}
 
-  '@wordpress/autop@4.57.0':
-    resolution: {integrity: sha512-qDnGKl9zdGYFPeFXetG7DGjhHLQW2GVlNYqFW2CjSwysRy6lACTGmyvRyGIOdm1EYeDBt5o0mvQxVPnh1TRo9A==}
-    engines: {node: '>=18.12.0'}
+  '@wordpress/autop@5.0.0':
+    resolution: {integrity: sha512-aHfC5Z7TmwvuRT0iV9e6l/N17C3VVcXcOlzouEC0x2/SNEc0dR71b3WPc0Qx4P44TAvpp7YQPJcaaM/Fz7Bfbg==}
+    engines: {node: '>=22.13.0'}
 
   a-sync-waterfall@1.0.1:
     resolution: {integrity: sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA==}
@@ -1053,7 +1053,7 @@ snapshots:
   '@types/trusted-types@2.0.7':
     optional: true
 
-  '@wordpress/autop@4.57.0': {}
+  '@wordpress/autop@5.0.0': {}
 
   a-sync-waterfall@1.0.1: {}
 

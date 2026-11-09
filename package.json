@@ -28,7 +28,7 @@
   "devDependencies": {
     "@wordpress/autop": "4.57.0",
     "linkedom": "0.18.13",
-    "turndown": "7.2.4"
+    "turndown": "7.2.5"
   },
   "description": "Independent static archive of published blog.extmem.net posts",
   "packageManager": "pnpm@10.30.3"
